@@ -1,0 +1,7 @@
+mido
+matplotlib
+scipy
+pydub
+librosa
+torch
+numpy
